@@ -1,0 +1,434 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		6833BD831B77DDEA00AFCC7F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6833BD821B77DDEA00AFCC7F /* AppDelegate.swift */; };
+		6833BD851B77DDEA00AFCC7F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6833BD841B77DDEA00AFCC7F /* ViewController.swift */; };
+		6833BD881B77DDEA00AFCC7F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6833BD861B77DDEA00AFCC7F /* Main.storyboard */; };
+		6833BD8A1B77DDEA00AFCC7F /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6833BD891B77DDEA00AFCC7F /* Images.xcassets */; };
+		6833BD8D1B77DDEA00AFCC7F /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6833BD8B1B77DDEA00AFCC7F /* LaunchScreen.xib */; };
+		6833BD991B77DDEA00AFCC7F /* PSTCARDTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6833BD981B77DDEA00AFCC7F /* PSTCARDTests.swift */; };
+		6833BDA31B77DE7B00AFCC7F /* rukia.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6833BDA21B77DE7B00AFCC7F /* rukia.jpg */; };
+		6833BDA51B77F3A700AFCC7F /* wallpapers-computers-windows-7-waterfall-high-quality-hd-a-e-ibackgroundz.com_.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6833BDA41B77F3A700AFCC7F /* wallpapers-computers-windows-7-waterfall-high-quality-hd-a-e-ibackgroundz.com_.jpg */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		6833BD931B77DDEA00AFCC7F /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 6833BD751B77DDEA00AFCC7F /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 6833BD7C1B77DDEA00AFCC7F;
+			remoteInfo = PSTCARD;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		6833BD7D1B77DDEA00AFCC7F /* PSTCARD.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PSTCARD.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		6833BD811B77DDEA00AFCC7F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6833BD821B77DDEA00AFCC7F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		6833BD841B77DDEA00AFCC7F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		6833BD871B77DDEA00AFCC7F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		6833BD891B77DDEA00AFCC7F /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		6833BD8C1B77DDEA00AFCC7F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
+		6833BD921B77DDEA00AFCC7F /* PSTCARDTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PSTCARDTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		6833BD971B77DDEA00AFCC7F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6833BD981B77DDEA00AFCC7F /* PSTCARDTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PSTCARDTests.swift; sourceTree = "<group>"; };
+		6833BDA21B77DE7B00AFCC7F /* rukia.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = rukia.jpg; sourceTree = "<group>"; };
+		6833BDA41B77F3A700AFCC7F /* wallpapers-computers-windows-7-waterfall-high-quality-hd-a-e-ibackgroundz.com_.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "wallpapers-computers-windows-7-waterfall-high-quality-hd-a-e-ibackgroundz.com_.jpg"; path = "../wallpapers-computers-windows-7-waterfall-high-quality-hd-a-e-ibackgroundz.com_.jpg"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		6833BD7A1B77DDEA00AFCC7F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6833BD8F1B77DDEA00AFCC7F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		6833BD741B77DDEA00AFCC7F = {
+			isa = PBXGroup;
+			children = (
+				6833BD7F1B77DDEA00AFCC7F /* PSTCARD */,
+				6833BD951B77DDEA00AFCC7F /* PSTCARDTests */,
+				6833BD7E1B77DDEA00AFCC7F /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		6833BD7E1B77DDEA00AFCC7F /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				6833BD7D1B77DDEA00AFCC7F /* PSTCARD.app */,
+				6833BD921B77DDEA00AFCC7F /* PSTCARDTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		6833BD7F1B77DDEA00AFCC7F /* PSTCARD */ = {
+			isa = PBXGroup;
+			children = (
+				6833BD821B77DDEA00AFCC7F /* AppDelegate.swift */,
+				6833BD841B77DDEA00AFCC7F /* ViewController.swift */,
+				6833BD861B77DDEA00AFCC7F /* Main.storyboard */,
+				6833BD891B77DDEA00AFCC7F /* Images.xcassets */,
+				6833BD8B1B77DDEA00AFCC7F /* LaunchScreen.xib */,
+				6833BD801B77DDEA00AFCC7F /* Supporting Files */,
+			);
+			path = PSTCARD;
+			sourceTree = "<group>";
+		};
+		6833BD801B77DDEA00AFCC7F /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				6833BDA21B77DE7B00AFCC7F /* rukia.jpg */,
+				6833BDA41B77F3A700AFCC7F /* wallpapers-computers-windows-7-waterfall-high-quality-hd-a-e-ibackgroundz.com_.jpg */,
+				6833BD811B77DDEA00AFCC7F /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		6833BD951B77DDEA00AFCC7F /* PSTCARDTests */ = {
+			isa = PBXGroup;
+			children = (
+				6833BD981B77DDEA00AFCC7F /* PSTCARDTests.swift */,
+				6833BD961B77DDEA00AFCC7F /* Supporting Files */,
+			);
+			path = PSTCARDTests;
+			sourceTree = "<group>";
+		};
+		6833BD961B77DDEA00AFCC7F /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				6833BD971B77DDEA00AFCC7F /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		6833BD7C1B77DDEA00AFCC7F /* PSTCARD */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 6833BD9C1B77DDEA00AFCC7F /* Build configuration list for PBXNativeTarget "PSTCARD" */;
+			buildPhases = (
+				6833BD791B77DDEA00AFCC7F /* Sources */,
+				6833BD7A1B77DDEA00AFCC7F /* Frameworks */,
+				6833BD7B1B77DDEA00AFCC7F /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = PSTCARD;
+			productName = PSTCARD;
+			productReference = 6833BD7D1B77DDEA00AFCC7F /* PSTCARD.app */;
+			productType = "com.apple.product-type.application";
+		};
+		6833BD911B77DDEA00AFCC7F /* PSTCARDTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 6833BD9F1B77DDEA00AFCC7F /* Build configuration list for PBXNativeTarget "PSTCARDTests" */;
+			buildPhases = (
+				6833BD8E1B77DDEA00AFCC7F /* Sources */,
+				6833BD8F1B77DDEA00AFCC7F /* Frameworks */,
+				6833BD901B77DDEA00AFCC7F /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				6833BD941B77DDEA00AFCC7F /* PBXTargetDependency */,
+			);
+			name = PSTCARDTests;
+			productName = PSTCARDTests;
+			productReference = 6833BD921B77DDEA00AFCC7F /* PSTCARDTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		6833BD751B77DDEA00AFCC7F /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0640;
+				ORGANIZATIONNAME = Senzu;
+				TargetAttributes = {
+					6833BD7C1B77DDEA00AFCC7F = {
+						CreatedOnToolsVersion = 6.4;
+					};
+					6833BD911B77DDEA00AFCC7F = {
+						CreatedOnToolsVersion = 6.4;
+						TestTargetID = 6833BD7C1B77DDEA00AFCC7F;
+					};
+				};
+			};
+			buildConfigurationList = 6833BD781B77DDEA00AFCC7F /* Build configuration list for PBXProject "PSTCARD" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 6833BD741B77DDEA00AFCC7F;
+			productRefGroup = 6833BD7E1B77DDEA00AFCC7F /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				6833BD7C1B77DDEA00AFCC7F /* PSTCARD */,
+				6833BD911B77DDEA00AFCC7F /* PSTCARDTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		6833BD7B1B77DDEA00AFCC7F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6833BDA31B77DE7B00AFCC7F /* rukia.jpg in Resources */,
+				6833BDA51B77F3A700AFCC7F /* wallpapers-computers-windows-7-waterfall-high-quality-hd-a-e-ibackgroundz.com_.jpg in Resources */,
+				6833BD881B77DDEA00AFCC7F /* Main.storyboard in Resources */,
+				6833BD8D1B77DDEA00AFCC7F /* LaunchScreen.xib in Resources */,
+				6833BD8A1B77DDEA00AFCC7F /* Images.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6833BD901B77DDEA00AFCC7F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		6833BD791B77DDEA00AFCC7F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6833BD851B77DDEA00AFCC7F /* ViewController.swift in Sources */,
+				6833BD831B77DDEA00AFCC7F /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6833BD8E1B77DDEA00AFCC7F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6833BD991B77DDEA00AFCC7F /* PSTCARDTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		6833BD941B77DDEA00AFCC7F /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 6833BD7C1B77DDEA00AFCC7F /* PSTCARD */;
+			targetProxy = 6833BD931B77DDEA00AFCC7F /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		6833BD861B77DDEA00AFCC7F /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				6833BD871B77DDEA00AFCC7F /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		6833BD8B1B77DDEA00AFCC7F /* LaunchScreen.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				6833BD8C1B77DDEA00AFCC7F /* Base */,
+			);
+			name = LaunchScreen.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		6833BD9A1B77DDEA00AFCC7F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.4;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		6833BD9B1B77DDEA00AFCC7F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.4;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		6833BD9D1B77DDEA00AFCC7F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = PSTCARD/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		6833BD9E1B77DDEA00AFCC7F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = PSTCARD/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		6833BDA01B77DDEA00AFCC7F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = PSTCARDTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/PSTCARD.app/PSTCARD";
+			};
+			name = Debug;
+		};
+		6833BDA11B77DDEA00AFCC7F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = PSTCARDTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/PSTCARD.app/PSTCARD";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		6833BD781B77DDEA00AFCC7F /* Build configuration list for PBXProject "PSTCARD" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6833BD9A1B77DDEA00AFCC7F /* Debug */,
+				6833BD9B1B77DDEA00AFCC7F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		6833BD9C1B77DDEA00AFCC7F /* Build configuration list for PBXNativeTarget "PSTCARD" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6833BD9D1B77DDEA00AFCC7F /* Debug */,
+				6833BD9E1B77DDEA00AFCC7F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		6833BD9F1B77DDEA00AFCC7F /* Build configuration list for PBXNativeTarget "PSTCARDTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6833BDA01B77DDEA00AFCC7F /* Debug */,
+				6833BDA11B77DDEA00AFCC7F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 6833BD751B77DDEA00AFCC7F /* Project object */;
+}
