@@ -26,7 +26,7 @@
                   moduleName = "PSTCARD"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/Piano/Documents/git%20hub/PSTCARD/PSTCARD/ViewController.swift"
-                  timestampString = "460933080.298587"
+                  timestampString = "463162052.771765"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "0"
@@ -41,7 +41,7 @@
                   moduleName = "PSTCARD"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/Piano/Documents/git%20hub/PSTCARD/PSTCARD/ViewController.swift"
-                  timestampString = "460933080.298703"
+                  timestampString = "463162052.771854"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "0"
@@ -56,7 +56,7 @@
                   moduleName = "PSTCARD"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/Piano/Documents/git%20hub/PSTCARD/PSTCARD/ViewController.swift"
-                  timestampString = "460933080.298824"
+                  timestampString = "463162052.771944"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "13"
@@ -71,12 +71,90 @@
                   moduleName = "PSTCARD"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/Piano/Documents/git%20hub/PSTCARD/PSTCARD/ViewController.swift"
-                  timestampString = "460933080.298959"
+                  timestampString = "463162052.772036"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "13"
                   endingLineNumber = "13"
-                  offsetFromSymbolStart = "28">
+                  offsetFromSymbolStart = "31">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PSTCARD/ViewController.swift"
+            timestampString = "463161811.221544"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PSTCARD.ViewController.enterNameTextField.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UITextField&gt;"
+                  moduleName = "PSTCARD"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Piano/Documents/git%20hub/PSTCARD/PSTCARD/ViewController.swift"
+                  timestampString = "463162052.773184"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PSTCARD.ViewController.enterNameTextField.materializeForSet : weak Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UITextField&gt;"
+                  moduleName = "PSTCARD"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Piano/Documents/git%20hub/PSTCARD/PSTCARD/ViewController.swift"
+                  timestampString = "463162052.773372"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PSTCARD.ViewController.init (PSTCARD.ViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;ObjectiveC.NSBundle&gt;) -&gt; PSTCARD.ViewController"
+                  moduleName = "PSTCARD"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Piano/Documents/git%20hub/PSTCARD/PSTCARD/ViewController.swift"
+                  timestampString = "463162052.773459"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "157">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PSTCARD.ViewController.init (PSTCARD.ViewController.Type)(coder : ObjectiveC.NSCoder) -&gt; PSTCARD.ViewController"
+                  moduleName = "PSTCARD"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Piano/Documents/git%20hub/PSTCARD/PSTCARD/ViewController.swift"
+                  timestampString = "463162052.773604"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "88">
                </Location>
             </Locations>
          </BreakpointContent>
